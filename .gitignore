@@ -1,0 +1,23 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file
+.env
+
+# Log files
+logs/
+*.log
+
+# Compiled TypeScript files
+dist/
+
+# macOS files
+.DS_Store
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS generated files
+Thumbs.db
